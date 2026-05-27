@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsppdate",
+        "uuid": 20877640,
+        "checksum": "chdvu"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
